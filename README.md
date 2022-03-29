@@ -1,3 +1,5 @@
+# TicTacToe<br>
+Для запуска консольного приложения запускать main из TicTacToe, для REST API (REST-like) использовать main из RestServiceApp<br>
 # TicTacToeREST
 web browser localhost:8080/gameplay<br>
 GET<br>
