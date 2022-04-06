@@ -1,9 +1,9 @@
-29:03:2022 20:30:55 Test1 won Test2
-29:03:2022 20:31:20 Test2 won Test1
-29:03:2022 20:31:45 Draw between Test1 and Test2
-29:03:2022 21:17:28 Browser1 won Browser2
-29:03:2022 21:17:44 Browser2 won Browser1
-29:03:2022 21:18:44 Draw between Browser1 and Browser2
-29:03:2022 21:20:10 Postman1 won Postman2
-29:03:2022 21:20:32 Postman2 won Postman1
-29:03:2022 21:21:13 Draw between Postman1 and Postman2
+06:04:2022 12:45:52 Postman1 won Postman2
+06:04:2022 12:45:52 Postman2 won Postman1
+06:04:2022 12:45:52 Draw between Postman1 and Postman2
+06:04:2022 13:17:28 Postman1 won Postman2
+06:04:2022 13:17:28 Postman2 won Postman1
+06:04:2022 13:17:29 Draw between Postman1 and Postman2
+06:04:2022 13:18:50 Postman1 won Postman2
+06:04:2022 13:18:50 Postman2 won Postman1
+06:04:2022 13:18:50 Draw between Postman1 and Postman2
